@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is GoBotz. We make Bots think...
 <!--
 
 **Here are some ideas to get you started:**
